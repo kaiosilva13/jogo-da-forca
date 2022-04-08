@@ -8,7 +8,7 @@ de funções, interrupções de laços e etc. O jogo conta com 3 opções de tem
 para jogar : países, frutas e cores , cada um com mais de 20 palavras cada.
 
 Dentro dos arquivos do projeto estão o arquivo original .py para ser utilizado 
-na própria ide, junto com o arquivo da função remove_accents, o arquivo zip que 
+na própria ide junto com o arquivo da função remove_accents e o  arquivo zip que 
 é um executável do programa para ser rodado no terminal sem precisar do uso de uma
 ide.
 
