@@ -3,8 +3,8 @@
 
 Este projeto foi desenvolvido somente com python, com o auxilio de uma função
 chamada [remove_accents](https://gist.github.com/luizomf/54b58615cd674db44153470c369a8284) para fazer determinada funcionalidade do jogo. O projeto
-conta com tratamento de erros, repetidores, testes condicionais, váriaveis, impor
-tação de funções, interrupções de laços e etc. O jogo conta com 3 opções de tema 
+conta com tratamento de erros, repetidores, testes condicionais, váriaveis, importação
+de funções, interrupções de laços e etc. O jogo conta com 3 opções de tema 
 para jogar : países, frutas e cores , cada um com mais de 20 palavras cada.
 
 Dentro dos arquivos do projeto estão o arquivo original .py para ser utilizado 
